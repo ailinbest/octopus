@@ -1,5 +1,9 @@
 # 使用selenuim动态打开页面点击并爬取数据
 
+nohup python -u reptile.py &
+
+
+
 ## 参考
 
 - [python爬虫：BeautifulSoup 使用select方法详解](https://www.cnblogs.com/yizhenfeng168/p/6979339.html)
